@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/admin/projects/react-bnb/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-59e781a6aac72fbd25d9f74c897164647a32542c.jar" />
+    </item>
+    <item
+        jar="/Users/admin/projects/react-bnb/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/admin/projects/react-bnb/android/app/build/intermediates/pre-dexed/debug/classes-0441855b5100f117a2eb8925b3759d70fb84055c.jar" />
+    </item>
+    <item
+        jar="/Users/admin/projects/react-bnb/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/admin/projects/react-bnb/android/app/build/intermediates/pre-dexed/debug/classes-367cd8d48086e6eef6f61818026d6653b318c15d.jar" />
+    </item>
+    <item
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/admin/projects/react-bnb/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-9e1c80bb9f87ef131fe885e6bac34a8a7f606887.jar" />
+    </item>
+    <item
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/admin/projects/react-bnb/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-f1f4c361921bd737611706abe3f229d01973a68f.jar" />
+    </item>
+    <item
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/admin/projects/react-bnb/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-87708f295c38f01a0ae0a418c7d9e14cb7743039.jar" />
+    </item>
+    <item
+        jar="/Users/admin/projects/react-bnb/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/admin/projects/react-bnb/android/app/build/intermediates/pre-dexed/debug/classes-1b3731f5fa36eb3b630b05e6e782a56ba9ce180e.jar" />
+    </item>
+    <item
+        jar="/Users/admin/projects/react-bnb/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/admin/projects/react-bnb/android/app/build/intermediates/pre-dexed/debug/classes-8aadd7ac9b67d809ea51e9526efa87f2a0511e13.jar" />
+    </item>
+    <item
+        jar="/Users/admin/projects/react-bnb/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/admin/projects/react-bnb/android/app/build/intermediates/pre-dexed/debug/classes-bd1eef3a57c0bcbac143d814f8a9b0496751f75e.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/admin/projects/react-bnb/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-83cbd8867bbfafb64844edcdc4bcc0a8099d3359.jar" />
+    </item>
+    <item
+        jar="/Users/admin/projects/react-bnb/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.24.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d12931c7b260dda5ba99b8c89cd6ec2a104abed3">
+        <dex dex="/Users/admin/projects/react-bnb/android/app/build/intermediates/pre-dexed/debug/classes-5bf01e738838b8eb15d70da72b06fb62ba36d29a.jar" />
+    </item>
+    <item
+        jar="/Users/admin/projects/react-bnb/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/admin/projects/react-bnb/android/app/build/intermediates/pre-dexed/debug/classes-51ccfc83530ae7576ae217448aad04e46b326873.jar" />
+    </item>
+    <item
+        jar="/Users/admin/projects/react-bnb/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/admin/projects/react-bnb/android/app/build/intermediates/pre-dexed/debug/classes-c4733487db866b04d3ed8677cb4ce2a6e41c10fd.jar" />
+    </item>
+    <item
+        jar="/Users/admin/projects/react-bnb/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/admin/projects/react-bnb/android/app/build/intermediates/pre-dexed/debug/classes-59e08d69deca589a01af3316b9779c6c1d945d91.jar" />
+    </item>
+    <item
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/admin/projects/react-bnb/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-3c882547cf051a4bd4428b802f45c2ee274126f4.jar" />
+    </item>
+    <item
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/admin/projects/react-bnb/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-967e1cae8105d681f66c0722cea5ef615784aa74.jar" />
+    </item>
+    <item
+        jar="/Users/admin/projects/react-bnb/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/admin/projects/react-bnb/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-5f7886df37acdc2bf31072bd96fd0d3646828e7d.jar" />
+    </item>
+    <item
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/admin/projects/react-bnb/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-94e1ff8ab73bdc8083f60fdd096154f52e9661ab.jar" />
+    </item>
+    <item
+        jar="/Users/admin/projects/react-bnb/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.24.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="50bae83a0680cb90776a4d36bb6aa4911a84fd8b">
+        <dex dex="/Users/admin/projects/react-bnb/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-37f03a2ecfd8e0108dc928a6d98b0d17607a31db.jar" />
+    </item>
+
+</items>
